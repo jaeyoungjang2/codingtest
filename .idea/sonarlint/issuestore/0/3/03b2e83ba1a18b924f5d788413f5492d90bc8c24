@@ -1,0 +1,15 @@
+
+u	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(éä©¤8Ý—Î‡—1
+>
+java:S16438"Use a StringBuilder instead.(”þßÕúÿÿÿÿ8Þ—Î‡—1
+r
+java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(û›þöýÿÿÿÿ8³˜Î‡—1
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(Çµí‘8´˜Î‡—1
+U	java:S106="9Replace this use of System.out or System.err by a logger.(ô¤„å8ª«Î‡—1
+`
+java:S1128">Remove this unused import 'org.jetbrains.annotations.NotNull'.(éš®ïøÿÿÿÿ8·˜Î‡—1
+O
+java:S1068"-Remove this unused "OPERATORS" private field.(ì¦Àôýÿÿÿÿ8·˜Î‡—1
+U
+java:S1068"8Remove this unused "ADDITIONAL_OPERATORS" private field.(ù¢Çë8·˜Î‡—1
