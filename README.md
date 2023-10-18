@@ -108,3 +108,18 @@ https://school.programmers.co.kr/learn/courses/30/lessons/17686
 
 
 ![img_4.png](img_4.png)
+
+
+<br/><br/>
+
+---
+## [3차] 압축
+```
+https://school.programmers.co.kr/learn/courses/30/lessons/17684
+```
+
+알파벳을 map에 넣는 방법을 수작업으로 진행했었는데 아래와 같이 진행했으면 더 좋았을 것 같음
+
+`todo: 이 문제에서, 다른 사람의 코드를 조금 더 참고하면 좋을 것 같음, 아직은 참고할 만한 코드가 안보임`
+
+![img_6.png](img_6.png)

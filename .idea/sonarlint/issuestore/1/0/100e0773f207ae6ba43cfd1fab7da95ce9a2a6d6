@@ -1,0 +1,8 @@
+
+c
+java:S3457"AFormat specifiers should be used instead of string concatenation.(ıã…ˆıÿÿÿÿ8µ¾•——1
+e
+java:S5361"HReplace this call to "replaceAll()" by a call to the "replace()" method.(ˆ¦ûŠ8÷¬Ä–—1
+e
+java:S5361"HReplace this call to "replaceAll()" by a call to the "replace()" method.(ˆ¦ûŠ8ø¬Ä–—1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(öéœ8Ø…™——1

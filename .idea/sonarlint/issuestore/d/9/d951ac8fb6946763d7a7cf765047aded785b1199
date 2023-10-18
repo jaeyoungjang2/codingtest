@@ -1,0 +1,16 @@
+
+J
+java:S10663"/Merge this if statement with the enclosing one.(õïëûÿÿÿÿ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²ÕÉâûÿÿÿÿ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ïîŸÿÿÿÿÿ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÄŞã ıÿÿÿÿ
+7
+java:S1643)"Use a StringBuilder instead.(·±³Ğøÿÿÿÿ
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÊíÅ¬8´¹ß«˜1
+m
+java:S3776	"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(÷Ñ£Úıÿÿÿÿ
+S
+java:S1854"8Remove this useless assignment to local variable "diff".(êüìÿûÿÿÿÿ
+D
+java:S1481")Remove this unused "diff" local variable.(êüìÿûÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(ƒ³„Û

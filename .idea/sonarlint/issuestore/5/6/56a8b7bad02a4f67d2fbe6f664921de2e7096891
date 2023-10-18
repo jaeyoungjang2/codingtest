@@ -1,0 +1,48 @@
+
+o
+java:S3776	"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(Çµí‘8ž¾À­›1
+^
+java:S1854 "ARemove this useless assignment to local variable "extensionPart".(ÌìÆÕ8‰Ü¾­›1
+`
+java:S1854">Remove this useless assignment to local variable "numberPart".(Òú¼Žýÿÿÿÿ8‰Ü¾­›1
+a
+java:S1854."?Remove this useless assignment to local variable "numbersList".(Ø¥ì²úÿÿÿÿ8‰Ü¾­›1
+^
+java:S1854D"ARemove this useless assignment to local variable "extensionPart".(ÌìÆÕ8‰Ü¾­›1
+`
+java:S1854C">Remove this useless assignment to local variable "numberPart".(Òú¼Žýÿÿÿÿ8‰Ü¾­›1
+Y
+java:S1854P"<Remove this useless assignment to local variable "tailList".(üà„8Ÿ¾À­›1
+^
+java:S1854e"ARemove this useless assignment to local variable "extensionPart".(ÌìÆÕ8Ÿ¾À­›1
+`
+java:S1854d">Remove this useless assignment to local variable "numberPart".(Òú¼Žýÿÿÿÿ8Ÿ¾À­›1
+X	java:S125
+"<This block of commented-out lines of code should be removed.(ü˜Þ8ŠÜ¾­›1
+W	java:S125"<This block of commented-out lines of code should be removed.(†¢”w8‹Ü¾­›1
+Q
+java:S1481"/Remove this unused "numberPart" local variable.(Òú¼Žýÿÿÿÿ8ŒÜ¾­›1
+O
+java:S1481 "2Remove this unused "extensionPart" local variable.(ÌìÆÕ8ŒÜ¾­›1
+t
+java:S6204+"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(…Æ‘§üÿÿÿÿ8Ü¾­›1
+R
+java:S1481."0Remove this unused "numbersList" local variable.(Ø¥ì²úÿÿÿÿ8ŽÜ¾­›1
+U	java:S106;"9Replace this use of System.out or System.err by a logger.(’¶¹‚8–åÜ­›1
+Q
+java:S1481C"/Remove this unused "numberPart" local variable.(Òú¼Žýÿÿÿÿ8Ü¾­›1
+O
+java:S1481D"2Remove this unused "extensionPart" local variable.(ÌìÆÕ8Ü¾­›1
+o
+java:S6204N"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(¥úåï8¤¾À­›1
+J
+java:S1481P"-Remove this unused "tailList" local variable.(üà„8µçÁ­›1
+Z	java:S106V"9Replace this use of System.out or System.err by a logger.(»ŽÁÏþÿÿÿÿ8¼°Ý­›1
+Q
+java:S1481d"/Remove this unused "numberPart" local variable.(Òú¼Žýÿÿÿÿ8¥¾À­›1
+O
+java:S1481e"2Remove this unused "extensionPart" local variable.(ÌìÆÕ8¥¾À­›1
+t
+java:S6204n"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(‰ª–ƒøÿÿÿÿ8ç…Æ­›1
+T	java:S106r"9Replace this use of System.out or System.err by a logger.(¢Û€V8ÒØß­›1
+U	java:S106z"9Replace this use of System.out or System.err by a logger.(õšÌú8‡Ùà­›1

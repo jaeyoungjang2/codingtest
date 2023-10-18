@@ -1,0 +1,11 @@
+
+>
+java:S1643 "Use a StringBuilder instead.(¸ˆù¨üÿÿÿÿ8ÑÁ¡–—1
+9
+java:S1643#"Use a StringBuilder instead.(»¸ìÚ8ÑÁ¡–—1
+X	java:S125"<This block of commented-out lines of code should be removed.(ø½—ý8‘Â®–—1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ä¼À8üÁ¡–—1
+X	java:S125"<This block of commented-out lines of code should be removed.(‡àž“8Áä¦–—1
+U	java:S106'"9Replace this use of System.out or System.err by a logger.(öéœ8Ý™§–—1
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8³²©–—1
