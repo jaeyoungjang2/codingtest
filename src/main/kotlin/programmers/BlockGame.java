@@ -1,6 +1,5 @@
 package programmers;
 
-import org.jetbrains.annotations.NotNull;
 
 import java.util.ArrayList;
 
@@ -37,7 +36,7 @@ public class BlockGame {
         System.out.println("answer = " + answer);
     }
 
-    @NotNull
+
     private static ArrayList<RemovePosition> checkRemoveList(int m, int n, char[][] newBoard) {
         ArrayList<RemovePosition> removeList = new ArrayList<>();
         for (int i = 0; i < m - 1; i++) {
