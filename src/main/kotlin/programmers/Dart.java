@@ -1,6 +1,5 @@
 package programmers;
 
-import org.jetbrains.annotations.NotNull;
 
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -22,7 +21,7 @@ public class Dart {
         System.out.println(answer);
     }
 
-    @NotNull
+
     private static ArrayList<Integer> makeScoreList(ArrayList<String> list) {
         ArrayList<Integer> scoreList = new ArrayList<>();
         int index = 0;
