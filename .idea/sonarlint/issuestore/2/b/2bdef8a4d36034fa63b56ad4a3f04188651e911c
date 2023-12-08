@@ -1,5 +1,10 @@
 
-n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÛàÜíşÿÿÿÿ8Ÿá×™³1
-Q
-java:S2864"4Iterate over the "entrySet" instead of the "keySet".(ƒ¦¿”8Şá×™³1
-U	java:S106("9Replace this use of System.out or System.err by a logger.(âÊŒİ8ñŠç™³1
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÛàÜíşÿÿÿÿ
+T
+java:S1854"9Remove this useless assignment to local variable "cache".(‡·éŸüÿÿÿÿ
+A
+java:S1481"+Remove this unused "answer" local variable.(åí¢é
+E
+java:S1481"*Remove this unused "cache" local variable.(‡·éŸüÿÿÿÿ
+F
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ
